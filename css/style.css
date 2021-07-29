@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    background-color: #264653;
+}
+.manu-nav li{
+    padding-right: 15px;
+
+}
+.btn-btn{
+    background-color: transparent;
+    border: 1px solid #f87554;
+    color: #f87554;
+ 
+}
+.btn-btn:hover{
+    background-color: #f87554;
+    color: white;
+    border: 1px solid #f87554;
+}
+.color-p{
+    color: white;
+    font-weight: 200;
+    line-height: 26px;
+}
+
+.icon i{
+    color: #f87554;
+    
+}
+.span-color{
+    color: #f87554;
+}
+h1{
+    font-weight: 600;
+}
